@@ -2,3 +2,4 @@ flask
 groq
 pymupdf
 lxml
+gunicorn
